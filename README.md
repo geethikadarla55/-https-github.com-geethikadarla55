@@ -12,10 +12,10 @@
 
 ### 🚀 **About Me**
 - 💻 Passionate **Java Full Stack Developer**  
-- 🌱 Currently learning **Microservices**  
+- 🌱 Currently learning **Microservices & Cloud Deployment**  
 - 🔍 Exploring **AI Tools for Development**  
 - ✨ Loves **building real-world projects & solving problems**  
-- 📫 Reach me: **2200030493cseh@gmail.com**
+- 📫 Reach me: **your-email@example.com**
 
 ---
 
@@ -28,6 +28,24 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+### 📂 **Projects**
+Here are some of my featured projects:
+
+- 🔗 [**Online Exam Portal**](https://github.com/geethikadarla55/Online_exam_portal)  
+  *A complete online examination platform built with Java and HTML.*
+
+- 🔗 [**Petshop Management System**](https://github.com/geethikadarla55/Petshop-Management-system)  
+  *Java-based system to manage pet shop inventory and sales.*
+
+- 🔗 [**Team-77 Agriculture**](https://github.com/geethikadarla55/team-77-agriculture)  
+  *An agriculture-focused web solution built using HTML.*
+
+- 🔗 [**Django5**](https://github.com/geethikadarla55/django5)  
+  *A JavaScript + Django project for web app development.*
+
 
 ---
 
@@ -52,7 +70,7 @@
 
 ### 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/geethikadarla55/geethikadarla55/blob/output/dist/snake.svg" />
 </p>
 
 ---
