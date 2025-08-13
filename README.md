@@ -70,7 +70,7 @@ Here are some of my featured projects:
 
 ### 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://github.com/geethikadarla55/geethikadarla55/blob/output/dist/snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
