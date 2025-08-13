@@ -12,10 +12,10 @@
 
 ### 🚀 **About Me**
 - 💻 Passionate **Java Full Stack Developer**  
-- 🌱 Currently learning **Microservices & Cloud Deployment**  
+- 🌱 Currently learning **Microservices**  
 - 🔍 Exploring **AI Tools for Development**  
 - ✨ Loves **building real-world projects & solving problems**  
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **2200030493cseh@gmail.com**
 
 ---
 
